@@ -33,7 +33,7 @@ ttk.Label(tab2,
                                     pady = 30)
   
 tabControl.add(tab1, text ='Upravljanje vratima')
-tabControl.add(tab2, text ='Rasvjeta')
+tabControl.add(tab2, text ='Settings')
 tabControl.pack(expand = 1, fill ="both")
 
 
