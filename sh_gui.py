@@ -6,6 +6,10 @@ root = Tk()
 root.title("Algebra | Smart Home")
 root.configure(bg="#282828")
 
+
+
+
+
 tabControl = ttk.Notebook(root)
   
 tab1 = ttk.Frame(tabControl)
